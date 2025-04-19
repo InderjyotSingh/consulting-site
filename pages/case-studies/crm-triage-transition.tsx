@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-export default function CRMTriageTransition() {
+export default function CaseStudyCRMTransition() {
   return (
     <>
       <Head>
@@ -45,9 +45,9 @@ export default function CRMTriageTransition() {
             </ul>
           </section>
 
-          <section className="mt-10 text-sm text-gray-500 italic">
-            SEO keywords: CRM migration in healthcare, triage design, Optum CRM transition, PHIPA compliant triage, ServiceNow case study, Inderjyot Singh CRM expert
-          </section>
+          <footer className="mt-10 text-sm text-gray-500 italic">
+            This engagement focused on CRM migration in a healthcare environment, leveraging triage design and PHIPA-compliant practices within Optum systems and ServiceNow. Led by Inderjyot Singh.
+          </footer>
         </article>
       </main>
     </>
