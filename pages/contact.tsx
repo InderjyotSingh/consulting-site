@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link';
 
 export default function ContactPage() {
   return (
@@ -21,12 +22,12 @@ export default function ContactPage() {
         <p className="text-md text-gray-600 max-w-xl mx-auto">
           You’ll receive access to our email, scheduling tools, and async support upon confirmation.
         </p>
-        <a
+        <Link
           href="/book"
           className="inline-block px-6 py-3 bg-brand-primary text-white font-semibold rounded hover:bg-brand-secondary mt-4"
         >
           Book a 1-Hour Consult ($45 USD)
-        </a>
+        </Link>
         <p className="text-sm text-gray-500 italic mt-4">
           * Bookings are non-refundable. Global clinical partners welcome.
         </p>
