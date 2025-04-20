@@ -21,10 +21,10 @@ export default function BookPage() {
           <li>Health teams undergoing transitions or needing workflow clarity</li>
         </ul>
         <p className="text-md text-gray-800 pt-2">
-          You’ll receive tailored advice and a prioritized roadmap with system suggestions, tool integrations, or automation options — aligned to your clinic's exact goals.
+          You&rsquo;ll receive tailored advice and a prioritized roadmap with system suggestions, tool integrations, or automation options — aligned to your clinic&apos;s exact goals.
         </p>
         <p className="text-sm text-gray-600">
-          Secure checkout via PayPal. Once payment is complete, you'll receive a private link to schedule your time.
+          Secure checkout via PayPal. Once payment is complete, you&apos;ll receive a private link to schedule your time.
         </p>
         <a
           href="https://www.paypal.com/paypalme/inderjyotsingh/45"
