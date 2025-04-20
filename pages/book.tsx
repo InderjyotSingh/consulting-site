@@ -1,5 +1,6 @@
 import Head from 'next/head';
 
+// Trigger rebuild
 export default function BookPage() {
   return (
     <>
@@ -23,6 +24,9 @@ export default function BookPage() {
         >
           Pay $45 USD & Book Now
         </a>
+        <p className="text-sm text-gray-500 italic mt-4">
+          * Be sure to book within 7 days of purchase. Bookings are non-refundable.
+        </p>
       </main>
     </>
   );
