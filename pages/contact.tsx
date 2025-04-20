@@ -8,7 +8,7 @@ export default function ContactPage() {
         <title>Contact – ClinoPilot</title>
         <meta
           name="description"
-          content="Contact ClinoPilot after booking a paid consultation. We work with clinics and healthcare teams to streamline digital workflows."
+          content="Contact ClinoPilot after booking a paid consultation. We work with clinics and healthcare teams to streamline digital workflow&apos;s success."
         />
         <meta property="og:title" content="Contact – ClinoPilot" />
         <meta property="og:description" content="Secure your consult before contact access. Serious inquiries only." />
